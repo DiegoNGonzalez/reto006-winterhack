@@ -1,0 +1,42 @@
+.home-item {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 1px #999;
+    width: 130px;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.home-item-img {
+    width: 70%;
+}
+.home-item-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-item-titulo {
+    margin: 0px;
+    font-size: 20px;
+}
+.home-item-medidas {
+    margin: 0px;
+    font-size: 12px;
+}
+.home-item-actions {
+    margin: 0px;
+    margin-top: 20px;
+}
+.home-item-precio {
+    margin: 0px;
+}
+.home-item-comprar {
+    margin: 0px;
+    background: #2f39ff;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    width: 40px;
+}
