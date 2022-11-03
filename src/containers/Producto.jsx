@@ -2,6 +2,7 @@ import React from "react";
 import "../assets/css/Producto.css"
 import img from "../assets/statics/0.png";
 
+
 export default function Producto() {
     return (
         <>
@@ -24,7 +25,7 @@ export default function Producto() {
                     "En la colección de stickers de Escuela Devrock no podía
                     faltar uno de Jakob Nielsen a.k.a Cat Nielsen en esta
                     versión. ¿Está hecho gatito? Sí, lo viste bien. Tiene
-                    bijotes, orejas y te enseña las heurísticas de usabilidad."
+                    bigotes, orejas y te enseña las heurísticas de usabilidad."
                 </p>
             </div>
         </>
